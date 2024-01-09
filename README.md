@@ -1,17 +1,16 @@
 # YADNESH SHIRKE
+─── ✮ INTRO ✮ ── :    
+Hello 👋, I am an individual with a genuine curiosity and enthusiasm for technology.   
+!! Welcome to my Github Profile !!  
 
-─── ✮ INTRO ✮ ── : 
-Hello 👋 , I am an individual with a genuine curiosity and enthusiasm for technology.
-!! Welcome to my Github Profile !!
+🚀 SKILLS:   
+◻ #Fast Learner💨   
+◻ #Good COMMUNICATION 🤝   
+◻ #CODER 👨‍💻  
+◻ #Athletic 🏃  
 
-🚀 SKILLS:
-◻ #Fast Learner💨
-◻ #Good COMMUNICATION 🤝
-◻ #CODER 👨‍💻
-◻ #Athletic 🏃
-
-🎯 PROJECT : 
-NONE 📚 
+🎯 PROJECT :   
+NONE 📚   
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" alt="JavaScript">
@@ -19,14 +18,11 @@ NONE 📚
   <img src="https://img.shields.io/badge/Tech-Python-green" alt="Python">
   <img src="https://img.shields.io/badge/Tools-VSCode-purple" alt="VSCode">
 </p>
-
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YADNESHSHIRKE21&show_icons=true&count_private=true&hide=contribs,prs)
-
 📌 GIT HUB STATS(📊):
 
-## 📫 How to Reach Me
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YADNESHSHIRKE21&show_icons=true&count_private=true&hide=contribs,prs)  
+
+## 📫 How to Reach Me  
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
