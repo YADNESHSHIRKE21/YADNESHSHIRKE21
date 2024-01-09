@@ -20,6 +20,7 @@ NONE 📚
 </p>
 
 📌 GIT HUB STATS(📊):
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## 📫 How to Reach Me
 
