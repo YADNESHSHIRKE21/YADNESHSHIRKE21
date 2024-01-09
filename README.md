@@ -20,6 +20,9 @@ NONE 📚
 </p>
 
 📌 GIT HUB STATS(📊):
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs" alt="Your GitHub Stats">
-</p>
+
+## 📫 How to Reach Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
+
