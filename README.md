@@ -12,6 +12,7 @@ Hello 👋 , I am an individual with a genuine curiosity and enthusiasm for tech
 
 🎯 PROJECT : 
 NONE 📚 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tech-React-blue" alt="React">
@@ -19,8 +20,10 @@ NONE 📚
   <img src="https://img.shields.io/badge/Tools-VSCode-purple" alt="VSCode">
 </p>
 
+
 📌 GIT HUB STATS(📊):
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YADNESHSHIRKE21&show_icons=true&count_private=true&hide=contribs,prs)
+
 
 ## 📫 How to Reach Me
 
