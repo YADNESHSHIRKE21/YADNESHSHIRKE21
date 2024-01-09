@@ -21,9 +21,10 @@ NONE 📚
 </p>
 
 
-📌 GIT HUB STATS(📊):
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YADNESHSHIRKE21&show_icons=true&count_private=true&hide=contribs,prs)
 
+📌 GIT HUB STATS(📊):
 
 ## 📫 How to Reach Me
 
