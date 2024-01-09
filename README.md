@@ -1,7 +1,7 @@
 # YADNESH SHIRKE
 ─── ✮ INTRO ✮ ── :    
 Hello 👋, I am an individual with a genuine curiosity and enthusiasm for technology.   
-!! Welcome to my Github Profile !!  
+🤗!! Welcome to my Github Profile !!🤗  
 
 🚀 SKILLS:   
 ◻ #Fast Learner💨   
@@ -9,7 +9,7 @@ Hello 👋, I am an individual with a genuine curiosity and enthusiasm for techn
 ◻ #CODER 👨‍💻  
 ◻ #Athletic 🏃  
 
-🎯 PROJECT :   
+🎯 PROJECT:   
 NONE 📚   
 
 <p align="center">
