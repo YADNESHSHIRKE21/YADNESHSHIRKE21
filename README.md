@@ -10,8 +10,7 @@ Hello 👋, I am an individual with a genuine curiosity and enthusiasm for techn
 ◻ #Athletic 🏃  
 
 🎯 PROJECT:   
-NONE 📚   
-
+ 📚 NONE   
 <p align="center">
   <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tech-React-blue" alt="React">
@@ -22,7 +21,7 @@ NONE 📚
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YADNESHSHIRKE21&show_icons=true&count_private=true&hide=contribs,prs)  
 
-## 📫 How to Reach Me  
+## 📫 How to Reach Me :   
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
