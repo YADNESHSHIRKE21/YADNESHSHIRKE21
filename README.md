@@ -32,7 +32,7 @@ Hello 👋, I am an individual with a genuine curiosity and enthusiasm for techn
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
 
-### ✍️ Random Dev Quote
+###  Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
